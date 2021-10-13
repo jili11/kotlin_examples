@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/antk/src/main/java/antk/requestsGeneration/SchreibeAuftragsAbschlussRequestBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/antk/src/main/java/antk/validator/XSDValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/antk/src/main/resources/xsd/OrderManagementPartnerTypes_V6.4.xsd">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/main/java/testng/SettingGeneralParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/test/java/testProject/regression/antk/ANTKReasonForReturn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/test/java/testProject/regression/kvws/KVWSRessourceBearbeiten.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/test/java/testProject/regression/wmstk/azuli/wmstkReportStatusAndCheckAzuLi/AzuliCheckMethods.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSchool/BookShop/book-rest-api-master/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSchool/BookShop/book-rest-api-master/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048Helper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSchool/BookShop/book-rest-api-master/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048Initializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSchool/BookShop/book-rest-api-master/Kotlin for Java Developers. Week 5/Games/Task/src/games/gameOfFifteen/GameOfFifteen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSchool/BookShop/book-rest-api-master/Kotlin for Java Developers. Week 5/Games/Task/src/games/gameOfFifteen/GameOfFifteenHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSchool/BookShop/book-rest-api-master/Kotlin for Java Developers. Week 5/Games/Task/src/games/gameOfFifteen/GameOfFifteenInitializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/src/mastermind/evaluateGuess.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Nice String/Task/src/nicestring/NiceString.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/src/taxipark/TaxiParkTask.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Kotlin for Java Developers. Week 4/Board/Task/src/board/Board.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Kotlin for Java Developers. Week 4/Board/Task/src/board/BoardImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Kotlin for Java Developers. Week 4/Rationals/Task/src/rationals/Rational.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Main.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/NiceString.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/NiceString.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/board/BoardImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/game/Game.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/game2048/Game2048.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/game2048/Game2048Helper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/game2048/Game2048Initializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/gameOfFifteen/GameOfFifteen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/gameOfFifteen/GameOfFifteenHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/gameOfFifteen/GameOfFifteenInitializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/ui/PlayGame.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/ui/PlayGame2048.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/games/ui/PlayGameOfFifteen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/rationals/Rational.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/taxipark/TaxiPark.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/taxipark/TaxiParkTask.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/Utilities.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/board/TestSquareBoard.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/games/game2048/AbstractTestGameWithSmallNumbers.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/rationals/RationalTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/taxipark/1TaskTests.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/taxipark/2TaskTests.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/taxipark/3TaskTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/taxipark/4TaskTests.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/taxipark/5TaskTests.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/taxipark/6TaskTests.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/taxipark/Utilities.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
